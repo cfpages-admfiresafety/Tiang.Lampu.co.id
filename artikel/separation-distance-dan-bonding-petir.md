@@ -1,0 +1,280 @@
+---
+article_id: TLP-13-04
+title: "Separation Distance, Bonding, dan Flashover Risk"
+slug: "separation-distance-dan-bonding-petir"
+description: "Explain conceptual separation/bonding choices, routing, conductive parts, and approval evidence"
+status: outline
+publication_date: "2026-03-18"
+publication_date_basis: editorial_backfill
+date_modified: null
+parent_topic: TLP-13
+primary_intent: "Understand lightning interfaces"
+reader_community: "Lampu.co.id"
+reader_address: "Teman Lampu.co.id"
+final_route: "/artikel/separation-distance-dan-bonding-petir.html"
+technical_review: required
+sources:
+  - "https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks"
+  - "https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting"
+  - "https://bnsp.go.id/"
+  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf"
+  - "https://www.iso.org/standard/70017.html"
+  - "https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012"
+  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
+  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
+  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
+  - "https://www.iso.org/standard/62542.html"
+  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
+  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
+  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
+  - "https://peraturan.bpk.go.id/Home/Details/163270/permenaker-no-8-tahun-2020"
+  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
+  - "https://peraturan.bpk.go.id/Details/104475/permen-pupr-no-26prtm2008-tahun-2008"
+  - "https://www.iso.org/sectors/building-construction/fire-safety"
+  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
+  - "https://www.ilo.org/publications/safety-and-health-construction-revised-edition"
+  - "https://webstore.iec.ch/en/publication/29590"
+  - "https://webstore.iec.ch/en/publication/101796"
+  - "https://webstore.iec.ch/en/publication/59704"
+  - "https://csrc.nist.gov/pubs/ir/8259/r1/final"
+---
+
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+
+# Separation Distance, Bonding, dan Flashover Risk
+
+## Assignment lock
+
+- **Writer task:** Expand this file into one complete article answering: “Separation Distance, Bonding, dan Flashover Risk”
+- **Reader and situation:** Designer near metal/services
+- **Reader outcome:** Explain conceptual separation/bonding choices, routing, conductive parts, and approval evidence
+- **Primary intent:** Understand lightning interfaces
+- **Reader community:** `Lampu.co.id`
+- **Primary friendly address:** `Teman Lampu.co.id`
+- **Natural variants:** `Sobat Lampu.co.id` and `Kawan Lampu.co.id`
+- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
+- **Scope boundary:** No distance calculation; specialist owns current-method application
+- **Final public route:** `/artikel/separation-distance-dan-bonding-petir.html`
+- **Appointed CMS date:** `2026-03-18` (`editorial_backfill`; preserve exactly)
+- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
+- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+
+## Opening instructions
+
+- Open with the exact short salutation: **“Halo, Teman Lampu.co.id!”**
+- Start with the concrete decision, confusion, risk, or costly shortcut behind **Separation Distance, Bonding, dan Flashover Risk**.
+- Give the short answer within the first two or three paragraphs.
+- State what evidence or condition can change that answer.
+- Later, sprinkle `Teman Lampu.co.id`, `Sobat Lampu.co.id`, or `Kawan Lampu.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
+- Do not use a generic industry-history or “Di era digital” introduction.
+
+## Evidence packet
+
+Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+
+### KR-01
+
+- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
+- **Purpose for this article:** Freeze the verified editorial scope for `tiang.lampu.co.id` and prevent family research from overriding this project's actual catalog boundaries.
+- **Safe grounded facts:** The repository plans 20 parent topics and 120 briefs. Planning documents do not prove a workplace, product, person, service, certificate, or control is safe or compliant.
+- **Limits:** Reconcile only against the frozen local catalog when its canonical commit changes.
+
+### KR-05
+
+- **Original sources:** [ILO controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks), [ILO five-step risk-assessment guide](https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting).
+- **Purpose for this article:** Ground a lean, repeatable risk cycle rather than paperwork volume or PPE-first advice.
+- **Safe grounded facts:** A generic matrix does not determine likelihood, consequence, exposure, acceptability, or residual risk for a site.
+- **Limits:** Complex or high-consequence risks require discipline-specific methods, evidence, competence, and approval.
+
+### KR-19
+
+- **Original sources:** [BNSP official site](https://bnsp.go.id/), [ISO 45001 briefing note](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf).
+- **Purpose for this article:** Ground role profiles, training needs, credential verification, practical assessment, authorization, supervision, and refresh after change.
+- **Safe grounded facts:** Scope, issuer, scheme, level, date/expiry, identity, practical context, language/literacy, supervision, and change determine what evidence means.
+- **Limits:** Verify the current regulator/issuer record and job-specific legal requirements; never authenticate a person or grant authorization from an article.
+
+### KR-20
+
+- **Original sources:** [ISO 19011:2018 record](https://www.iso.org/standard/70017.html), [PP No. 50 Tahun 2012](https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012).
+- **Purpose for this article:** Ground scope, competence, independence, sampling, field evidence, findings, actions, effectiveness, and management review.
+- **Safe grounded facts:** Activity counts and injury rates alone do not prove risk control; definitions, denominators, exposure, reporting quality, severity, leading evidence, and decision use matter.
+- **Limits:** Do not claim audit independence, conformity, control effectiveness, or statistical improvement without a defined method and original evidence.
+
+### KR-21
+
+- **Original sources:** [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
+- **Purpose for this article:** Replace price-only selection and marketplace claims with comparable, retrievable evidence.
+- **Safe grounded facts:** A logo, test excerpt, certificate image, seller rating, or “standard-compliant” phrase does not prove the delivered model or installed system conforms.
+- **Limits:** No fabricated stock, price, client, approval, certificate, warranty, availability, or legal entitlement.
+
+### KR-23
+
+- **Original sources:** [UU No. 27 Tahun 2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022), [ISO 15489-1:2016 record](https://www.iso.org/standard/62542.html).
+- **Purpose for this article:** Ground approvals, versions, distribution, field access, retention, evidence provenance, migration, and personal-data boundaries.
+- **Safe grounded facts:** Legal register, risk assessment, permit, inspection, training, credential, incident, health record, corrective action, and audit evidence have different owners and sensitivity.
+- **Limits:** Retention, access, lawful basis, breach response, health data, litigation hold, and regulator submission require current legal and records/privacy review.
+
+### KR-24
+
+- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
+- **Purpose for this article:** Keep evergreen education separate from changing `safety.co.id` offers and proof.
+- **Safe grounded facts:** Every live claim needs an owner, original record, scope, date, limitations, and refresh trigger.
+- **Limits:** If proof is absent, keep the article neutral and preserve the evidence gap.
+
+### KR-02
+
+- **Original sources:** [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970).
+- **Purpose for this article:** Establish the national foundation without converting one law into a complete site obligation register.
+- **Safe grounded facts:** Applicability depends on the actual workplace, activity, people, equipment, material, and implementing rules; a web article cannot determine compliance.
+- **Limits:** Use current consolidated law and sector/local rules; obtain Indonesian K3/legal review for a definitive duty.
+
+### KR-09
+
+- **Original sources:** [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
+- **Purpose for this article:** Ground avoidance, collective protection, access, falling objects, system evidence, competence, and rescue readiness.
+- **Safe grounded facts:** Worker fall prevention, object control, access, anchor/lifeline design, equipment compatibility, inspection, weather, people below, and rescue are separate systems.
+- **Limits:** No anchor capacity, spacing, clearance, scaffold design, equipment selection, exclusion distance, or rescue procedure without current law and competent design.
+
+### KR-10
+
+- **Original sources:** [Permenaker No. 8 Tahun 2020](https://peraturan.bpk.go.id/Home/Details/163270/permenaker-no-8-tahun-2020), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
+- **Purpose for this article:** Ground roles, equipment identity, load information, ground/support, configuration, accessories, communication, exclusion, inspection, and abnormal-lift escalation.
+- **Safe grounded facts:** Equipment registration/status, operator competence, accessory identity, load chart/configuration, lift plan, site conditions, inspection, and authorization prove different things.
+- **Limits:** No load, radius, ground-bearing, rigging, sling-angle, wind, inspection interval, critical-lift threshold, or operating instruction from generic material.
+
+### KR-11
+
+- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
+- **Purpose for this article:** Ground competence, de-energization, hazardous-energy control, temporary supply, wet conditions, inspection, and emergency boundaries.
+- **Safe grounded facts:** Source identification, one-line documentation, isolation, absence-of-voltage verification, grounding/protection, environment, equipment condition, and authorization are distinct evidence.
+- **Limits:** No live-work, switching, test, protection setting, grounding, arc-energy, temporary wiring, or design procedure.
+
+### KR-12
+
+- **Original sources:** [Permen PUPR No. 26/PRT/M/2008 record](https://peraturan.bpk.go.id/Details/104475/permen-pupr-no-26prtm2008-tahun-2008), [ISO fire-safety standards overview](https://www.iso.org/sectors/building-construction/fire-safety).
+- **Purpose for this article:** Connect prevention, detection, notification, containment, suppression, egress, impairment, maintenance, and emergency organization.
+- **Safe grounded facts:** A device certificate, installation record, commissioning test, inspection, impairment log, evacuation drill, and authority approval prove different layers.
+- **Limits:** Confirm current PUPR/local rules and full standards; no spacing, capacity, hydraulic, alarm, egress, fire-rating, occupancy, or compliance conclusion.
+
+### KR-16
+
+- **Original sources:** [Permen PUPR No. 10 Tahun 2021 official record](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [ILO Safety and Health in Construction code](https://www.ilo.org/publications/safety-and-health-construction-revised-edition).
+- **Purpose for this article:** Ground SMKK, design risk, procurement, RKK interfaces, temporary states, contractors, public/occupied-site protection, and handover.
+- **Safe grounded facts:** Client, designer, contractor, subcontractor, supervisor, competent person, worker, and public interfaces change across phases and simultaneous work.
+- **Limits:** No excavation, temporary-works, scaffold, lifting, electrical, traffic, structural, or public-protection design without project evidence and competent discipline review.
+
+### KR-39
+
+- **Original sources:** [IEC 62305-4:2024](https://webstore.iec.ch/en/publication/29590), [IEC 62305-2:2024 corrigendum record](https://webstore.iec.ch/en/publication/101796).
+- **Purpose for this article:** Ground risk assessment, air termination, down conductors, earth termination, bonding, separation, surge protection, electronic systems, inspection, and changes.
+- **Safe grounded facts:** A tall metal pole, air terminal, earth rod, low resistance reading, SPD label, or bonding jumper alone does not prove protection of the structure, people, luminaires, cameras, antennas, controls, or connected network.
+- **Limits:** Apply current local requirements and full IEC/SNI series through a competent risk assessment; verify geometry, zones/interfaces, conductors/bonding/earthing/SPDs, soil, coordinated product data, installation, tests, records, maintenance, and modifications.
+
+### KR-41
+
+- **Original sources:** [IEC 62676-6:2026](https://webstore.iec.ch/en/publication/59704), [NISTIR 8259 Rev. 1](https://csrc.nist.gov/pubs/ir/8259/r1/final).
+- **Purpose for this article:** Ground camera/antenna loads, field of view, vibration, cabinet and cable, power/data, grounding/surge, device security, privacy, maintenance access, and acceptance.
+- **Safe grounded facts:** A stable-looking image, camera resolution, bracket capacity, network signal, or password change does not prove identification, analytics, vibration response, privacy, resilience, or secure lifecycle operation.
+- **Limits:** Define operational requirement and lawful basis; verify equipment/wind area, structural dynamics, scenes, network/power/surge, secure configuration/update/support, installation, field tests, monitoring, access/retention, and safe maintenance. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `TLP-01` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-36, KR-38 | Use the reviewed tiang.lampu.co.id evidence to ground “Pole fundamentals and anatomy” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-02` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-36, KR-38, KR-40, KR-41 | Use the reviewed tiang.lampu.co.id evidence to ground “Pole types and use-case selection” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-03` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-36, KR-37 | Use the reviewed tiang.lampu.co.id evidence to ground “Materials, fabrication, joints, and QA” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-04` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-36, KR-40, KR-41 | Use the reviewed tiang.lampu.co.id evidence to ground “Structural loads, wind, fatigue, and vibration” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-05` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-36, KR-37, KR-39, KR-40 | Use the reviewed tiang.lampu.co.id evidence to ground “Soil, foundations, base plates, and anchors” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-06` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-37 | Use the reviewed tiang.lampu.co.id evidence to ground “Corrosion, coatings, galvanizing, and durability” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-07` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-36, KR-38, KR-39, KR-41 | Use the reviewed tiang.lampu.co.id evidence to ground “Electrical supply, wiring, earthing, and controls” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-08` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-38, KR-40 | Use the reviewed tiang.lampu.co.id evidence to ground “Photometry and lighting quality” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-09` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-36, KR-38, KR-39, KR-40 | Use the reviewed tiang.lampu.co.id evidence to ground “PJU, park, flood, and solar-light applications” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-10` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-36, KR-38, KR-39, KR-40 | Use the reviewed tiang.lampu.co.id evidence to ground “High-mast systems” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-11` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-36, KR-38, KR-39, KR-40, KR-41 | Use the reviewed tiang.lampu.co.id evidence to ground “Traffic, CCTV, antenna, fibre, and telecom poles” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-12` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-36, KR-37, KR-38, KR-39, KR-40, KR-41 | Use the reviewed tiang.lampu.co.id evidence to ground “Specification, procurement, quotation, and acceptance” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-13` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-39, KR-41 | Use the reviewed tiang.lampu.co.id evidence to ground “Lightning protection, surge protection, bonding, and earthing” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-14` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-36, KR-37, KR-38, KR-39, KR-40 | Use the reviewed tiang.lampu.co.id evidence to ground “Logistics, lifting, installation, and commissioning” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-15` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-36, KR-37, KR-38, KR-39, KR-40, KR-41 | Use the reviewed tiang.lampu.co.id evidence to ground “Inspection, maintenance, defects, repair, and replacement” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-16` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-36, KR-39, KR-40, KR-41 | Use the reviewed tiang.lampu.co.id evidence to ground “K3, road-user, worker, and public safety” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-17` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-36, KR-38, KR-39, KR-40, KR-41 | Use the reviewed tiang.lampu.co.id evidence to ground “Regulation, standards, permits, and professional roles” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `TLP-18` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-09, KR-10, KR-11, KR-12, KR-16, KR-37, KR-38, KR-40 | Use the reviewed tiang.lampu.co.id evidence to ground “Energy, environment, lifecycle, and end-of-life” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | Coverage result: **18/18 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. A management system, legal duty, risk assessment, engineered control, permit, competence record, inspection, and audit prove different things. 2. Control selection starts with eliminating or controlling the hazard at source; PPE does not repair a weak design. 3. A generic article cannot approve a real site, task, worker, product, chemical, machine, lift, electrical system, confined space, height system, or fire strategy. 4. Indonesian technical K3 status must be rechecked against Permenaker 11/2026 before quoting provisions. 5. A certificate image does not prove issuer, current status, scope, identity match, delivered product, installation quality, or system performance. 6. Emergency planning must match credible scenarios, people, accessibility, on-site capability, communications, external responders, and drills. 7. An exposure observation is not a measured assessment; a measured exposure is not a diagnosis or fitness decision. 8. Activity counts and injury rates alone do not establish control effectiveness or culture. 9. Controlled documents direct current work; records preserve evidence of what occurred. 10. Product, service, price, credential, client, case, warranty, and outcome claims require dated operator-approved evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `EG-01` Actual workplace, task, people, interfaces, environment, baseline, and current conditions | `TLP-01`, `TLP-02`, `TLP-03`, `TLP-04`, `TLP-05`, `TLP-06`, `TLP-07`, `TLP-08`, `TLP-09`, `TLP-10`, `TLP-11`, `TLP-12`, `TLP-13`, `TLP-14`, `TLP-15`, `TLP-16`, `TLP-17`, `TLP-18` | Dated site/task survey, affected-person consultation, scope, assumptions, change check, and accountable owner | | `EG-02` Technical design, capacity, geometry, rating, spacing, load, protection, or acceptance | `TLP-01`, `TLP-02`, `TLP-03`, `TLP-04`, `TLP-05`, `TLP-06`, `TLP-07`, `TLP-08`, `TLP-09`, `TLP-10`, `TLP-11`, `TLP-12`, `TLP-13`, `TLP-14`, `TLP-15`, `TLP-16`, `TLP-17`, `TLP-18` | Current full code/standard, design basis, calculations, product/system evidence, competent design, and approval | | `EG-03` Work method, control sequence, equipment, permit, isolation, test, inspection, or return to service | `TLP-01`, `TLP-02`, `TLP-03`, `TLP-04`, `TLP-05`, `TLP-06`, `TLP-07`, `TLP-08`, `TLP-09`, `TLP-10`, `TLP-11`, `TLP-12`, `TLP-13`, `TLP-14`, `TLP-15`, `TLP-16`, `TLP-17`, `TLP-18` | Site-specific assessment and approved method, manufacturer instructions, competent roles, hold points, records, and supervision | | `EG-04` Rescue, emergency action, evacuation, first aid, medical response, or public-service capability | `TLP-01`, `TLP-02`, `TLP-03`, `TLP-04`, `TLP-05`, `TLP-06`, `TLP-07`, `TLP-08`, `TLP-09`, `TLP-10`, `TLP-11`, `TLP-12`, `TLP-13`, `TLP-14`, `TLP-15`, `TLP-16`, `TLP-17`, `TLP-18` | Credible scenarios, trained team, compatible equipment, accessibility, drill evidence, clinical/emergency review, and confirmed liaison | | `EG-05` Electrical energy, lifting configuration, machinery intervention, atmosphere, hot work, or SIMOPS | `TLP-01`, `TLP-02`, `TLP-03`, `TLP-04`, `TLP-05`, `TLP-06`, `TLP-07`, `TLP-08`, `TLP-09`, `TLP-10`, `TLP-11`, `TLP-12`, `TLP-13`, `TLP-14`, `TLP-15`, `TLP-16`, `TLP-17`, `TLP-18` | Discipline-specific hazard evidence, isolation/interface plan, authorized competence, field verification, and change controls | | `EG-06` Confined-space identity, atmosphere, ventilation, testing, entry, standby, or rescue | `TLP-01`, `TLP-03`, `TLP-04`, `TLP-05`, `TLP-06`, `TLP-07`, `TLP-08`, `TLP-09`, `TLP-10`, `TLP-11`, `TLP-12`, `TLP-13`, `TLP-14`, `TLP-15`, `TLP-16`, `TLP-18` | Current consolidated law, actual space/configuration/contents, competent assessment, calibrated testing plan, permit system, and viable rescue plan | | `EG-07` Fire scenario, occupancy, active/passive system, egress, impairment, or authority acceptance | `TLP-01`, `TLP-02`, `TLP-03`, `TLP-04`, `TLP-05`, `TLP-06`, `TLP-07`, `TLP-08`, `TLP-09`, `TLP-10`, `TLP-11`, `TLP-12`, `TLP-13`, `TLP-14`, `TLP-15`, `TLP-16`, `TLP-17`, `TLP-18` | Building/fire strategy, current PUPR/local rules and full standards, drawings, commissioning/maintenance evidence, fire engineer, and AHJ review | | `EG-08` Exposure, symptom, health surveillance, diagnosis, fitness, treatment, psychosocial assessment, or personal data | `TLP-01`, `TLP-02`, `TLP-03`, `TLP-04`, `TLP-05`, `TLP-06`, `TLP-07`, `TLP-08`, `TLP-09`, `TLP-10`, `TLP-11`, `TLP-12`, `TLP-13`, `TLP-14`, `TLP-15`, `TLP-16`, `TLP-17`, `TLP-18` | Qualified occupational-health/hygiene/clinical assessment, lawful basis, consent/access controls, current evidence, and emergency escalation where needed | | `EG-09` Product, model, certificate, standard edition, marking, manufacturer instruction, compatibility, or system performance | `TLP-01`, `TLP-02`, `TLP-03`, `TLP-04`, `TLP-05`, `TLP-06`, `TLP-07`, `TLP-08`, `TLP-09`, `TLP-10`, `TLP-11`, `TLP-12`, `TLP-13`, `TLP-14`, `TLP-15`, `TLP-16`, `TLP-17`, `TLP-18` | Exact identity and scope match, original issuer/manufacturer source, current validity, installation/configuration evidence, inspection/test, and competent acceptance | | `EG-10` Legal applicability, reporting, licence, credential, role, regulator, audit, or compliance | `TLP-01`, `TLP-02`, `TLP-03`, `TLP-04`, `TLP-05`, `TLP-06`, `TLP-07`, `TLP-08`, `TLP-09`, `TLP-10`, `TLP-11`, `TLP-12`, `TLP-13`, `TLP-14`, `TLP-15`, `TLP-16`, `TLP-17`, `TLP-18` | Current consolidated Indonesian sources, entity/site/activity match, official record, and qualified K3/legal review | | `EG-11` Incident/case, photograph, interview, worker report, culture result, metric, or health/disciplinary record | `TLP-01`, `TLP-02`, `TLP-03`, `TLP-04`, `TLP-05`, `TLP-06`, `TLP-07`, `TLP-08`, `TLP-09`, `TLP-10`, `TLP-11`, `TLP-12`, `TLP-13`, `TLP-14`, `TLP-15`, `TLP-16`, `TLP-17`, `TLP-18` | Original provenance, permission/lawful basis, de-identification, method/denominator, limitations, current legal/privacy review, and publication approval | | `EG-12` Service, shop item, price, stock, availability, response, client, warranty, guarantee, or commercial outcome | `TLP-01`, `TLP-02`, `TLP-03`, `TLP-04`, `TLP-05`, `TLP-06`, `TLP-07`, `TLP-08`, `TLP-09`, `TLP-10`, `TLP-11`, `TLP-12`, `TLP-13`, `TLP-14`, `TLP-15`, `TLP-16`, `TLP-17`, `TLP-18` | Dated operator-approved commercial record with owner, scope, exclusions, evidence, effective period, and refresh date | ## Source-refresh triggers Recheck immediately when Indonesian K3, construction, health, privacy, consumer, product, electrical, fire, environmental, or local rules change; when a standard or manufacturer document changes; when the site/task/people/equipment/material differ; when an article introduces a number, procedure, certificate, safety, compliance, performance, medical, price, case, or warranty claim; or six months after the verification date. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
+
+## Evidence gates
+
+- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12.
+
+If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+
+## Internal-link plan
+
+### Existing local routes
+
+- `/penangkal-petir` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/pasang-jual-tiang-penangkal-petir-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/pasang-jual-tiang-penangkal-petir-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/pasang-jual-tiang-penangkal-petir-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/pasang-jual-tiang-penangkal-petir-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/pasang-jual-tiang-penangkal-petir-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+
+### Planned sibling articles
+
+These are future routes. Do not link them as live until their HTML exists.
+
+- `TLP-13-02` → `/artikel/earthing-listrik-vs-terminasi-petir.html` — Earthing Proteksi Listrik dan Earth Termination Petir
+- `TLP-13-03` → `/artikel/surge-protection-pju-smart-pole.html` — Surge Protection untuk PJU dan Smart Pole
+- `TLP-13-05` → `/artikel/inspeksi-sistem-proteksi-petir.html` — Inspeksi Sistem Proteksi Petir Setelah Instalasi
+- `TLP-13-06` → `/artikel/mitos-radius-proteksi-petir.html` — Mitos Radius Proteksi dan Klaim “100 Persen Aman dari Petir”
+
+<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
+## Jawaban singkat dan salah paham utama
+
+- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
+- **Tie back to this article:** Keep the explanation specific to “Separation Distance, Bonding, dan Flashover Risk”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Definisi dan batas objek
+
+- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
+- **Tie back to this article:** Keep the explanation specific to “Separation Distance, Bonding, dan Flashover Risk”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Cara kerjanya
+
+- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
+- **Tie back to this article:** Keep the explanation specific to “Separation Distance, Bonding, dan Flashover Risk”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Faktor yang mengubah hasil
+
+- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
+- **Tie back to this article:** Keep the explanation specific to “Separation Distance, Bonding, dan Flashover Risk”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Contoh keputusan praktis
+
+- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
+- **Tie back to this article:** Keep the explanation specific to “Separation Distance, Bonding, dan Flashover Risk”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Kesalahan umum dan cara memeriksanya
+
+- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
+- **Tie back to this article:** Keep the explanation specific to “Separation Distance, Bonding, dan Flashover Risk”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Objection or shortcut to address
+
+- Identify one realistic shortcut a reader may prefer.
+- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
+- Give the safer or more reliable alternative.
+
+## Required conclusion
+
+- Answer the title again in one compact, non-repetitive form.
+- Give the reader the next action, document, question, inspection, or professional review to obtain.
+- End with an operating rule or honest boundary. Do not end with a generic summary.
+
+## Draft completion checklist
+
+- [ ] Opening answers the main question within two or three paragraphs.
+- [ ] The article opens with `Halo, Teman Lampu.co.id!` and uses friendly `Lampu.co.id` community address naturally three to five times total.
+- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
+- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [ ] Internal links use exact listed routes and helpful natural anchors.
+- [ ] Future sibling routes are not presented as live.
+- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [ ] Conclusion gives a concrete next action and an honest limit.
